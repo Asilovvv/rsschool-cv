@@ -11,3 +11,10 @@
 ## About Me
 I am a student at **Ala Too International University**, studying  IT (Computer Science). My goal is to continuously grow in the IT field, especially in project management and leveraging artificial intelligence to optimize business processes.
 
+## Skills
+- **Programming Languages:** Java, Python, JavaScript  
+- **Frameworks:** Spring, React  
+- **Project Management Tools:** Jira, Trello, ClickUp  
+- **Methodologies:** Agile, Scrum  
+- **Version Control Systems:** Git, GitHub  
+- **Other Skills:** HTML, CSS, SQL, REST API
