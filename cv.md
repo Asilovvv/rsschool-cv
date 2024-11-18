@@ -18,3 +18,26 @@ I am a student at **Ala Too International University**, studying  IT (Computer S
 - **Methodologies:** Agile, Scrum  
 - **Version Control Systems:** Git, GitHub  
 - **Other Skills:** HTML, CSS, SQL, REST API
+
+## Code Example
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        int rightNumbers = 0;
+            for (int i = 0; i < 3; i++) {
+                if (chekingAllLocations(boxes.get(i), location1, location2, location3)) {
+                    rightNumbers++;
+                }
+            }
+            if (rightNumbers == 3) {
+                System.out.println("Congratulations! You have found all the boxes. The Martians thank you!");
+                System.exit(0);
+            }
+            else {
+                System.out.println("Correct marks: " + rightNumbers + ". Try again.");
+            }
+            attempts++;
+        }
+    }
+}
+
