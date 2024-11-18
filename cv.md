@@ -41,12 +41,20 @@ public class HelloWorld {
     }
 }
 
-## Опыт работы
+## Work Experience
 
-### Проектный менеджер  
-**MDigital** (2023 — н.в.)  
+### Project Manager  
+**MDigital** (2023 — Present)  
 
-- Управление командой из 4 разработчиков.  
-- Успешное завершение 10+ проектов для клиентов из разных сфер.  
-- Внедрение Agile-методологий, что увеличило скорость выполнения задач на 25%.
+- Managed a team of 4 developers.  
+- Successfully completed 10+ projects for clients across various industries.  
+- Implemented Agile methodologies, increasing task completion speed by 25%.
 
+## Education
+
+### Ala Too International University (2022 — Present)  
+**Faculty:** IT (Computer Science)  
+
+### Courses and Trainings:  
+- **Rolling Scopes School** — JavaScript/Front-End (2024)  
+  
