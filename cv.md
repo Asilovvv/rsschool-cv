@@ -50,6 +50,7 @@ public class HelloWorld {
 - Successfully completed 10+ projects for clients across various industries.  
 - Implemented Agile methodologies, increasing task completion speed by 25%.
 
+
 ## Education
 
 ### Ala Too International University (2022 — Present)  
@@ -58,3 +59,8 @@ public class HelloWorld {
 ### Courses and Trainings:  
 - **Rolling Scopes School** — JavaScript/Front-End (2024)  
   
+
+## English Proficiency
+
+- **Level:** Upper-Intermediate (B2)  
+- Experience in communication with English-speaking clients and team members.  
